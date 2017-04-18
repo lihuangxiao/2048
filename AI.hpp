@@ -2,6 +2,8 @@
 #define ai
 #include "Game.hpp"
 
+
+// implements the AI player for 2048 game
 class AI
 {
 public:

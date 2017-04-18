@@ -4,7 +4,6 @@
 
 int newNum()
 {
-  //return 2;
   return (rand() % 2 + 1) * 2;
 } 
 

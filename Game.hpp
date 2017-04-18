@@ -2,6 +2,8 @@
 #define GAME
 #include "Arr4.hpp"
 
+
+// implements the 2048 game
 class Game
 {
 
